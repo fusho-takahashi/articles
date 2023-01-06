@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fusho-takahashi/articles/issues"
   },
-  "homepage": "https://github.com/fusho-takahashi/articles#readme"
+  "homepage": "https://github.com/fusho-takahashi/articles#readme",
+  "dependencies": {
+    "textlint": "^12.5.1"
+  }
 }
