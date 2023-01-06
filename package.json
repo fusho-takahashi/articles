@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/fusho-takahashi/articles#readme",
   "dependencies": {
-    "textlint": "^12.5.1"
+    "textlint": "^12.5.1",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
   }
 }
